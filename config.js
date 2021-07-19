@@ -1,19 +1,17 @@
 const CONFIG = {
-    introTitle: 'Hi bạn!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao tớ cứ đi nhầm đường
-    Lạc vào tim bạn lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    introTitle: 'He luu cậu!',
+    introDesc: `Tớ có điều này muốn hỏi cậu phải trả lời thật
+    lòng nha',
     btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao anh lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Em biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 8h đi chơi nhaaa.',
+    title: 'Cậu yêu tớ có phải khongg 😙',
+    desc: 'Nếu cậu khong trả lời mà thoát ra tức là muốnlàm vợ tớ luôn rùi đó nha',
+    btnYes: 'Yêu ơi là yêu <33',
+    btnNo: 'Cậu mơ à :3',
+    question:'Nói lí do cậu thích tớ đi <3',
+    btnReply: 'Gửi cho tớ <3',
+    reply: 'Tại vì cậu đẹp trai vl <33333333',
+    mess: 'Tớ biết mà 🥰. Yêu cậu nhiều nhiều 😘😘',
+    messDesc: 'Tối nay 8h đi chơi nhaaa.Còn giờ ibox cho tớ nàoooo ',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'http://doquanghuy11.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
