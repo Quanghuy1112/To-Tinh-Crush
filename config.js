@@ -12,6 +12,6 @@ const CONFIG = {
     reply: 'Tại vì cậu đẹp trai vl <33333333',
     mess: 'Tớ biết mà 🥰. Yêu cậu nhiều nhiều 😘😘',
     messDesc: 'Tối nay 8h đi chơi nhaaa.Còn giờ ibox cho tớ nàoooo ',
-    btnAccept: 'Okiiiii lun <3',
+    btnAccept: 'Okee lun nehh <333',
     messLink: 'http://doquanghuy11.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
